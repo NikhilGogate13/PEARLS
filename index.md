@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## PEARLS
 
-You can use the [editor on GitHub](https://github.com/NikhilGogate13/pearls.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PEARLS is clustering based multi-dimensional visual data analytic tools for data scientists. Complete project Implementation can be found [here](https://github.com/jainayush975/PEARLS).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Motivation
 
-### Markdown
+Visualizing multi-dimensional data is complex, difficult and well studied topic. Most solutions visualizing multi-dimensional data suffer from problems like over-plotting, messy, etc. PEARLS solution aims at solving this problems and also tries to provide fast, convinient data cleaning interface for some basic use-cases.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Video  
+Basic to [video]() can followed to understand kind of use-cases PEARLS is capable of handling.
 
-```markdown
-Syntax highlighted code block
+### Installation
+- Installation instruction for **Linux** : [Link]()  
+- Installation instruction for **Windows** : [Link]()
 
-# Header 1
-## Header 2
-### Header 3
+### Implementation
+Tool was made as locally deployable website. [Django](https://www.djangoproject.com/) webframework based on python. Frontend was made using javascript. Graphic module made using [THREE.js](https://threejs.org/) (javascript based webGL framework).  
+Detailed explanation of code and how to configure it to your need can be found below:
+- [Backend]()
+- [Frontend]()
 
-- Bulleted
-- List
+### References
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NikhilGogate13/pearls.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Research Material]()
+- [Video]()
+- [BEADS](https://ieeexplore.ieee.org/document/5333417)  
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Website? Having trouble with installation? Want to report bugs? Want to provide reviews? Have questions fill this form [here]().  
+For contact mail to [nikhil.gogate@students.iiit.ac.in](nikhil.gogate@students.iiit.ac.in) or [ayush.jain@students.iiit.ac.in](ayush.jain@students.iiit.ac.in).
