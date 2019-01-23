@@ -10,7 +10,7 @@ Visualizing multi-dimensional data is complex, difficult and well studied topic.
 Basic to [video]() can followed to understand kind of use-cases PEARLS is capable of handling.
 
 ### Installation
-- Installation instruction for **Linux** : [Link](./intallation)  
+- Installation instruction for **Linux** : [Link](./installation.md)  
 - Installation instruction for **Windows** : [Link]()
 
 ### Implementation
