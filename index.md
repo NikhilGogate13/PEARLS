@@ -16,7 +16,8 @@ Basic to [video]() can followed to understand kind of use-cases PEARLS is capabl
 ### Implementation
 Tool was made as locally deployable website. [Django](https://www.djangoproject.com/) webframework based on python. Frontend was made using javascript. Graphic module made using [THREE.js](https://threejs.org/) (javascript based webGL framework).  
 Detailed explanation of code and how to configure it to your need can be found below:
-- [Backend]()
+- [Backend PEARLS system](./backend)
+- [Backend Server Side]()
 - [Frontend]()
 
 ### References
