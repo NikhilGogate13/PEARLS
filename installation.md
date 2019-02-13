@@ -1,12 +1,16 @@
 ## Linux Installation Manual
-1. **Download PEARLS** : Download the zip packacge containg PEARLS packacge and extract the package.
+1. **Download PEARLS** : Download the zip package or clone directory contaning PEARLS package and extract the package.
 
-2. **Environment Swtup** : The extracted package will be containg **djangoenv.tar.xz** file which contains virtual ennvironment to run PEARLS.
+2. **Create Virtual Environment** : You need to have installed virtualenv, if not installed install using ``` pip install virtualenv ``` before running next commands. Run command ```virtualenv djangoenv```. It will create folder named django containing python distribution.
 
 3. **Activate Virtual Environment** : For running application you need to activate virtual ennvironment
 
 ```sh
 $ source ./djangoenv/bin/activate
+```
+4. **Setup Environment** : Run following command after activation  
+```sh
+$ pip install -r requirements.txt
 ```
 4. **Run Server** : Next run server by command:
 

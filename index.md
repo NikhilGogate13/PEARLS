@@ -20,6 +20,9 @@ Detailed explanation of code and how to configure it to your need can be found b
 - [Backend Server Side]()
 - [Frontend]()
 
+## Use
+Use is properly highlighted in video and to understand format of dataset provided look into Dataset folder of main repository. View is normalised to view all data in single window. Panning is feature newly added not showed in video.
+
 ### References
 
 - [Research Material]()
