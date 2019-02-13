@@ -31,5 +31,5 @@ Use is properly highlighted in video and to understand format of dataset provide
 
 ### Support or Contact
 
-Having trouble with Website? Having trouble with installation? Want to report bugs? Want to provide reviews? Have questions fill this form [here]().  
+Having trouble with Website? Having trouble with installation? Want to report bugs? Want to provide reviews? Have questions fill this form [here](https://goo.gl/forms/s05Z8mMfRbjSxqBA3).  
 For contact mail to [nikhil.gogate@students.iiit.ac.in](nikhil.gogate@students.iiit.ac.in) or [ayush.jain@students.iiit.ac.in](ayush.jain@students.iiit.ac.in).
