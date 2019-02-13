@@ -7,11 +7,11 @@ PEARLS is clustering based multi-dimensional visual data analytic tools for data
 Visualizing multi-dimensional data is complex, difficult and well studied topic. Most solutions visualizing multi-dimensional data suffer from problems like over-plotting, messy, etc. PEARLS solution aims at solving this problems and also tries to provide fast, convinient data cleaning interface for some basic use-cases.
 
 ### Video  
-Basic to [video]() can followed to understand kind of use-cases PEARLS is capable of handling.
+Basic to [video](https://drive.google.com/file/d/11pMJE3_2l0FiE1oz00ni9bsX1BCxJXwW/view?usp=sharing) can followed to understand kind of use-cases PEARLS is capable of handling.
 
 ### Installation
 - Installation instruction for **Linux** : [Link](./installation)  
-- Installation instruction for **Windows** : [Link]()
+- Installation instruction for **Windows** : [Link](./installation_windows)
 
 ### Implementation
 Tool was made as locally deployable website. [Django](https://www.djangoproject.com/) webframework based on python. Frontend was made using javascript. Graphic module made using [THREE.js](https://threejs.org/) (javascript based webGL framework).  
@@ -26,7 +26,7 @@ Use is properly highlighted in video and to understand format of dataset provide
 ### References
 
 - [Research Material]()
-- [Video]()
+- [Video](https://drive.google.com/file/d/11pMJE3_2l0FiE1oz00ni9bsX1BCxJXwW/view?usp=sharing)
 - [BEADS](https://ieeexplore.ieee.org/document/5333417)  
 
 ### Support or Contact
